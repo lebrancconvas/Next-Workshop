@@ -1,0 +1,28 @@
+{
+  "name": "next-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lebrancconvas/Next-Workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lebrancconvas/Next-Workshop/issues"
+  },
+  "homepage": "https://github.com/lebrancconvas/Next-Workshop#readme",
+  "dependencies": {
+    "bulma": "^0.6.2",
+    "next": "^5.1.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "styled-components": "^3.2.3"
+  }
+}
