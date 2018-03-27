@@ -18,7 +18,7 @@ class Index extends React.Component {
         </div>
         <h1>Hello Next</h1>
         <div>
-          <a href="https://github.com/lebrancconvas/Next-Workshop"><Butt>My Repo Ok!</Butt></a>
+          <a href="https://github.com/lebrancconvas/Next-Workshop"><Butt>My Repo is here!</Butt></a>
         </div>
       </div>
     );
